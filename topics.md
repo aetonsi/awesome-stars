@@ -545,6 +545,7 @@
 
 ## others 
 
+- [doom-pdf/doom-pdf](https://github.com/doom-pdf/doom-pdf) - Doom PDF: Play Doom Inside PDF Files
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to stereo 3D video conversion
 - [derjanb/hamiyoca](https://github.com/derjanb/hamiyoca) - Hash me if you can - A Bitcoin miner that supports pure Javscript, WebWorker and WebGL mining.
