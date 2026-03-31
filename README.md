@@ -244,6 +244,7 @@
 
 ## Others 
 
+- [doom-pdf/doom-pdf](https://github.com/doom-pdf/doom-pdf) - Doom PDF: Play Doom Inside PDF Files
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [fawazahmed0/Latest-adb-fastboot-installer-for-windows](https://github.com/fawazahmed0/Latest-adb-fastboot-installer-for-windows) - A Simple Android Driver installer tool for windows (Always installs the latest version)
 - [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
