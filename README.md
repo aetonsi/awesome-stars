@@ -395,7 +395,7 @@
 ## VBScript 
 
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
-- [farag2/Install-Office](https://github.com/farag2/Install-Office) - Download and install Microsoft 365 & Office 2019/2021/2024
+- [farag2/Install-Office](https://github.com/farag2/Install-Office) - Download Microsoft 365 & Microsoft Office 2019/2021/2024
 
 ## Visual Basic 
 
