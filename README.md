@@ -348,7 +348,7 @@
 
 ## Rich Text Format 
 
-- [STaRDoGG/GeekDrop-Props](https://github.com/STaRDoGG/GeekDrop-Props) - A simple command-line utility to open the standard Windows Properties sheet by passing the file/folder/drive path to it.
+- [jscottelblein/GeekDrop-Props](https://github.com/jscottelblein/GeekDrop-Props) - A simple command-line utility to open the standard Windows Properties sheet by passing the file/folder/drive path to it.
 
 ## Ruby 
 
