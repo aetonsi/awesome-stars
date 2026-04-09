@@ -584,7 +584,7 @@
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.
 - [mikecel79/DISMGUI](https://github.com/mikecel79/DISMGUI) - DISM GUI is a graphical interface for the DISM command line utility written in the .NET.  DISM GUI allows you to mount and dismount WIMs, manager drivers, features and packages.
-- [STaRDoGG/GeekDrop-Props](https://github.com/STaRDoGG/GeekDrop-Props) - A simple command-line utility to open the standard Windows Properties sheet by passing the file/folder/drive path to it.
+- [jscottelblein/GeekDrop-Props](https://github.com/jscottelblein/GeekDrop-Props) - A simple command-line utility to open the standard Windows Properties sheet by passing the file/folder/drive path to it.
 - [PJUllrich/twomillioncheckboxes](https://github.com/PJUllrich/twomillioncheckboxes) - A reimplementation of the origin One Million Checkboxes page
 - [INeed4000Bucks/cloudscraper](https://github.com/INeed4000Bucks/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
