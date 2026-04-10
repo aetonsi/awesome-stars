@@ -252,7 +252,7 @@
 ## cryptography 
 
 - [mimidesunya/encfsy](https://github.com/mimidesunya/encfsy) - EncFS implementation for Windows with Dokany and Crypto++.
-- [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
+- [DNSCrypt/SimpleDnsCrypt](https://github.com/DNSCrypt/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 
 ## cybersecurity 
 
@@ -893,7 +893,7 @@
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
-- [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
+- [DNSCrypt/SimpleDnsCrypt](https://github.com/DNSCrypt/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 - [jwallet/spy-spotify](https://github.com/jwallet/spy-spotify) - 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
