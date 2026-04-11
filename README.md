@@ -181,6 +181,7 @@
 
 ## JavaScript 
 
+- [gongchandang49/bypass-all-shortlinks-debloated](https://github.com/gongchandang49/bypass-all-shortlinks-debloated) - Bypass All Shortlinks Debloated – a Github port from Codeberg.
 - [derjanb/hamiyoca](https://github.com/derjanb/hamiyoca) - Hash me if you can - A Bitcoin miner that supports pure Javscript, WebWorker and WebGL mining.
 - [epidemian/snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
 - [Extended-Thunder/send-later](https://github.com/Extended-Thunder/send-later) - Schedule messages to be sent at a specific time.
