@@ -545,6 +545,7 @@
 
 ## others 
 
+- [gongchandang49/bypass-all-shortlinks-debloated](https://github.com/gongchandang49/bypass-all-shortlinks-debloated) - Bypass All Shortlinks Debloated – a Github port from Codeberg.
 - [doom-pdf/doom-pdf](https://github.com/doom-pdf/doom-pdf) - Doom PDF: Play Doom Inside PDF Files
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to stereo 3D video conversion
