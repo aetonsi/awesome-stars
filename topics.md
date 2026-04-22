@@ -56,6 +56,7 @@
 - [instagram](#instagram)
 - [ios](#ios)
 - [java](#java)
+- [javafx](#javafx)
 - [javascript](#javascript)
 - [jetpack-compose](#jetpack-compose)
 - [jquery](#jquery)
@@ -215,6 +216,7 @@
 ## cli 
 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [intoolswetrust/jsignpdf](https://github.com/intoolswetrust/jsignpdf) - Cross-platform PDF digital signing tool. JavaFX desktop UI with drag-to-place visible signatures, PKCS#11/PKCS#12 keystores, RFC 3161 timestamping, OCSP/CRL long-term validation, and a scriptable CLI.
 - [exiftool/exiftool](https://github.com/exiftool/exiftool) - ExifTool meta information reader/writer
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
@@ -415,8 +417,13 @@
 
 ## java 
 
+- [intoolswetrust/jsignpdf](https://github.com/intoolswetrust/jsignpdf) - Cross-platform PDF digital signing tool. JavaFX desktop UI with drag-to-place visible signatures, PKCS#11/PKCS#12 keystores, RFC 3161 timestamping, OCSP/CRL long-term validation, and a scriptable CLI.
 - [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums from the web in bulk for archive purposes
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
+
+## javafx 
+
+- [intoolswetrust/jsignpdf](https://github.com/intoolswetrust/jsignpdf) - Cross-platform PDF digital signing tool. JavaFX desktop UI with drag-to-place visible signatures, PKCS#11/PKCS#12 keystores, RFC 3161 timestamping, OCSP/CRL long-term validation, and a scriptable CLI.
 
 ## javascript 
 
@@ -595,7 +602,6 @@
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
 - [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 - [fanfare/disablegooglelens](https://github.com/fanfare/disablegooglelens) - Disable Google Lens redirects Google Lens results to the normal image results
-- [intoolswetrust/jsignpdf](https://github.com/intoolswetrust/jsignpdf) - PDF signing software written in Java. It supports visible signatures, timestamping, certificate verification and many other cool features
 - [olegos2/mobox](https://github.com/olegos2/mobox) - 
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [LuisYeah1234-hub/NativeLinux](https://github.com/LuisYeah1234-hub/NativeLinux) - Linux in the Windows Native Mode (chkdsk screen env)??
@@ -713,7 +719,7 @@
 
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-- [farag2/Install-Office](https://github.com/farag2/Install-Office) - Download Microsoft 365 & Microsoft Office 2019/2021/2024
+- [farag2/Install-Office](https://github.com/farag2/Install-Office) - Download Microsoft 365 & Microsoft Office 2024
 - [llamasoft/polyshell](https://github.com/llamasoft/polyshell) - A Bash/Batch/PowerShell polyglot!
 - [AnderssonPeter/PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for PowerShell
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
