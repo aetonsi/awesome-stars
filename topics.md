@@ -245,7 +245,7 @@
 
 ## computer-science 
 
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## covid-19 
 
@@ -552,6 +552,7 @@
 
 ## others 
 
+- [p2r3/convert](https://github.com/p2r3/convert) - Truly universal online file converter
 - [gongchandang49/bypass-all-shortlinks-debloated](https://github.com/gongchandang49/bypass-all-shortlinks-debloated) - Bypass All Shortlinks Debloated – a Github port from Codeberg.
 - [doom-pdf/doom-pdf](https://github.com/doom-pdf/doom-pdf) - Doom PDF: Play Doom Inside PDF Files
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
@@ -740,7 +741,7 @@
 
 ## python 
 
-- [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
+- [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) - Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.
 - [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot) - A Telegram bot deployable to Heroku/VPS that can extract every archive ! With support for split archives, password protected, download from URL, file rename, thumbnail changer, ...
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [rahiel/telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
