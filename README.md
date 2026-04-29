@@ -181,6 +181,7 @@
 
 ## JavaScript 
 
+- [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension) - A web browser extension for Chrome, Firefox, Edge, and Safari 14.
 - [gongchandang49/bypass-all-shortlinks-debloated](https://github.com/gongchandang49/bypass-all-shortlinks-debloated) - Bypass All Shortlinks Debloated – a Github port from Codeberg.
 - [derjanb/hamiyoca](https://github.com/derjanb/hamiyoca) - Hash me if you can - A Bitcoin miner that supports pure Javscript, WebWorker and WebGL mining.
 - [epidemian/snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
