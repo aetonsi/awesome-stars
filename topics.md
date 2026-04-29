@@ -18,6 +18,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -199,6 +200,13 @@
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
+
+## c-sharp 
+
+- [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+- [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
+- [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
+- [DevelopersTree/permadelete](https://github.com/DevelopersTree/permadelete) - Permanently shreds files, easily.
 
 ## chrome 
 
@@ -552,6 +560,7 @@
 
 ## others 
 
+- [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension) - A web browser extension for Chrome, Firefox, Edge, and Safari 14.
 - [p2r3/convert](https://github.com/p2r3/convert) - Truly universal online file converter
 - [gongchandang49/bypass-all-shortlinks-debloated](https://github.com/gongchandang49/bypass-all-shortlinks-debloated) - Bypass All Shortlinks Debloated – a Github port from Codeberg.
 - [doom-pdf/doom-pdf](https://github.com/doom-pdf/doom-pdf) - Doom PDF: Play Doom Inside PDF Files
