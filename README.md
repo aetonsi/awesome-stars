@@ -96,7 +96,7 @@
 - [joeyespo/tray-me](https://github.com/joeyespo/tray-me) - Add any Windows application to the tray area.
 - [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for interacting with command-line interfaces
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
-- [DevelopersTree/permadelete](https://github.com/DevelopersTree/permadelete) - Permanently shreds files, easily.
+- [devs-krd/permadelete](https://github.com/devs-krd/permadelete) - Permanently shreds files, easily.
 - [joelspadin/AudioPipe](https://github.com/joelspadin/AudioPipe) - Audio-redirecting application with a simple UI
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [jaredpar/pinvoke-interop-assistant](https://github.com/jaredpar/pinvoke-interop-assistant) - PInvoke Interop Assistant
