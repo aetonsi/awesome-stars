@@ -213,7 +213,7 @@
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
-- [DevelopersTree/permadelete](https://github.com/DevelopersTree/permadelete) - Permanently shreds files, easily.
+- [devs-krd/permadelete](https://github.com/devs-krd/permadelete) - Permanently shreds files, easily.
 
 ## chrome 
 
@@ -916,7 +916,7 @@
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [fcFn/traymond](https://github.com/fcFn/traymond) - A simple Windows app for minimizing windows to tray icons
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
-- [DevelopersTree/permadelete](https://github.com/DevelopersTree/permadelete) - Permanently shreds files, easily.
+- [devs-krd/permadelete](https://github.com/devs-krd/permadelete) - Permanently shreds files, easily.
 - [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [gsass1/NTop](https://github.com/gsass1/NTop) - 💻 htop-like system-monitor for Windows with Vi-keybindings.
