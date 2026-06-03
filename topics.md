@@ -842,7 +842,6 @@
 ## telegram-bot 
 
 - [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot) - A Telegram bot deployable to Heroku/VPS that can extract every archive ! With support for split archives, password protected, download from URL, file rename, thumbnail changer, ...
-- [saikatwtf/OTT-Downloader-Bot](https://github.com/saikatwtf/OTT-Downloader-Bot) - A Powerful Telegram Bot Can Download Video From NF, AMZN And other most popular OTT platforms
 
 ## terminal 
 
