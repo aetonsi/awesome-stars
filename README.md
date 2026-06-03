@@ -338,7 +338,6 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [rahiel/telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
-- [saikatwtf/OTT-Downloader-Bot](https://github.com/saikatwtf/OTT-Downloader-Bot) - A Powerful Telegram Bot Can Download Video From NF, AMZN And other most popular OTT platforms
 - [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [Evidlo/passhole](https://github.com/Evidlo/passhole) - A secure hole for your passwords (KeePass CLI)
 - [rebkwok/kpcli](https://github.com/rebkwok/kpcli) - Command line interface for keepass database
