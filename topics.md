@@ -572,6 +572,7 @@
 
 ## others 
 
+- [corentin-c/SpotifyAutoPatcher](https://github.com/corentin-c/SpotifyAutoPatcher) - The easiest way to patch Spotify and Youtube Music, without the need to download APKs !
 - [nocoldiz/ytp-museum](https://github.com/nocoldiz/ytp-museum) - 
 - [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension) - A web browser extension for Chrome, Firefox, Edge, and Safari 14.
 - [p2r3/convert](https://github.com/p2r3/convert) - Truly universal online file converter
