@@ -168,6 +168,7 @@
 
 ## Java 
 
+- [corentin-c/SpotifyAutoPatcher](https://github.com/corentin-c/SpotifyAutoPatcher) - The easiest way to patch Spotify and Youtube Music, without the need to download APKs !
 - [oasisfeng/island](https://github.com/oasisfeng/island) - Island for Android
 - [intoolswetrust/jsignpdf](https://github.com/intoolswetrust/jsignpdf) - Cross-platform PDF digital signing tool. JavaFX desktop UI with drag-to-place visible signatures, PKCS#11/PKCS#12 keystores, RFC 3161 timestamping, OCSP/CRL long-term validation, and a scriptable CLI.
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
