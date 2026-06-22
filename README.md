@@ -183,6 +183,7 @@
 
 ## JavaScript 
 
+- [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
 - [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension) - A web browser extension for Chrome, Firefox, Edge, and Safari 14.
 - [derjanb/hamiyoca](https://github.com/derjanb/hamiyoca) - Hash me if you can - A Bitcoin miner that supports pure Javscript, WebWorker and WebGL mining.
 - [epidemian/snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
