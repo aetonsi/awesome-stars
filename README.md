@@ -183,6 +183,8 @@
 
 ## JavaScript 
 
+- [Flozad/copy-all-urls-extension](https://github.com/Flozad/copy-all-urls-extension) - This Chrome extension allows users to copy the URLs of all open tabs or selected tabs, and paste them to open new tabs. It's based on the original CopyAllURLs extension, with enhancements and custom f
+- [vincepare/CopyAllUrl_Chrome](https://github.com/vincepare/CopyAllUrl_Chrome) - CopyAllUrl extension for Google Chrome
 - [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
 - [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension) - A web browser extension for Chrome, Firefox, Edge, and Safari 14.
 - [derjanb/hamiyoca](https://github.com/derjanb/hamiyoca) - Hash me if you can - A Bitcoin miner that supports pure Javscript, WebWorker and WebGL mining.
