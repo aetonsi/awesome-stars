@@ -573,6 +573,8 @@
 
 ## others 
 
+- [Flozad/copy-all-urls-extension](https://github.com/Flozad/copy-all-urls-extension) - This Chrome extension allows users to copy the URLs of all open tabs or selected tabs, and paste them to open new tabs. It's based on the original CopyAllURLs extension, with enhancements and custom f
+- [vincepare/CopyAllUrl_Chrome](https://github.com/vincepare/CopyAllUrl_Chrome) - CopyAllUrl extension for Google Chrome
 - [corentin-c/SpotifyAutoPatcher](https://github.com/corentin-c/SpotifyAutoPatcher) - The easiest way to patch Spotify and Youtube Music, without the need to download APKs !
 - [nocoldiz/ytp-museum](https://github.com/nocoldiz/ytp-museum) - 
 - [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension) - A web browser extension for Chrome, Firefox, Edge, and Safari 14.
