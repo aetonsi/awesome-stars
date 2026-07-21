@@ -182,6 +182,7 @@
 
 ## JavaScript 
 
+- [Flozad/copy-all-urls-extension](https://github.com/Flozad/copy-all-urls-extension) - This Chrome extension allows users to copy the URLs of all open tabs or selected tabs, and paste them to open new tabs. It's based on the original CopyAllURLs extension, with enhancements and custom f
 - [vincepare/CopyAllUrl_Chrome](https://github.com/vincepare/CopyAllUrl_Chrome) - CopyAllUrl extension for Google Chrome
 - [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
 - [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension) - A web browser extension for Chrome, Firefox, Edge, and Safari 14.
@@ -377,7 +378,6 @@
 
 ## TypeScript 
 
-- [Flozad/copy-all-urls-extension](https://github.com/Flozad/copy-all-urls-extension) - This Chrome extension allows users to copy the URLs of all open tabs or selected tabs, and paste them to open new tabs. It's based on the original CopyAllURLs extension, with enhancements and custom f
 - [p2r3/convert](https://github.com/p2r3/convert) - Truly universal online file converter
 - [OHIF/Viewers](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
