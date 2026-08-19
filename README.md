@@ -334,7 +334,7 @@
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
 - [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - Tetris in a PDF (in most browsers)
-- [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - A curated list of all ReVanced and Morphe resources, patches and projects!
+- [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - Android application patching ecosystems built around ReVanced, Morphe, and compatible community tooling.
 - [INeed4000Bucks/cloudscraper](https://github.com/INeed4000Bucks/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot) - A Telegram bot deployable to Heroku/VPS that can extract every archive ! With support for split archives, password protected, download from URL, file rename, thumbnail changer, ...
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
