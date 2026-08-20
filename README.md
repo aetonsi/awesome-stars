@@ -64,6 +64,7 @@
 
 ## C 
 
+- [aldostools/webMAN-MOD](https://github.com/aldostools/webMAN-MOD) - Extended services for PS3 console (web server, ftp server, netiso, ntfs, ps3mapi, etc.)
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
