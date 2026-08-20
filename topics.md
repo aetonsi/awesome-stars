@@ -574,6 +574,7 @@
 
 ## others 
 
+- [aldostools/webMAN-MOD](https://github.com/aldostools/webMAN-MOD) - Extended services for PS3 console (web server, ftp server, netiso, ntfs, ps3mapi, etc.)
 - [Flozad/copy-all-urls-extension](https://github.com/Flozad/copy-all-urls-extension) - This Chrome extension allows users to copy the URLs of all open tabs or selected tabs, and paste them to open new tabs. It's based on the original CopyAllURLs extension, with enhancements and custom f
 - [vincepare/CopyAllUrl_Chrome](https://github.com/vincepare/CopyAllUrl_Chrome) - CopyAllUrl extension for Google Chrome
 - [corentin-c/SpotifyAutoPatcher](https://github.com/corentin-c/SpotifyAutoPatcher) - The easiest way to patch Spotify and Youtube Music, without the need to download APKs !
