@@ -36,7 +36,7 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
-- [Visual Basic](#visual-basic)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
 ## Assembly 
@@ -409,7 +409,7 @@
 - [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 - [farag2/Install-Office](https://github.com/farag2/Install-Office) - Download Microsoft 365 (Office 365) & Microsoft Office 2024 LTSC
 
-## Visual Basic 
+## Visual Basic .NET 
 
 - [mikecel79/DISMGUI](https://github.com/mikecel79/DISMGUI) - DISM GUI is a graphical interface for the DISM command line utility written in the .NET.  DISM GUI allows you to mount and dismount WIMs, manager drivers, features and packages.
 
