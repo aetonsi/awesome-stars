@@ -53,6 +53,7 @@
 
 ## Batchfile 
 
+- [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [FoxP/PNG-to-ICO](https://github.com/FoxP/PNG-to-ICO) - KISS batch script to easily convert PNG, GIF, BMP, SVG or JPG images to multi-resolution ICO files using ImageMagick.
 - [wureset-tools/script-wureset](https://github.com/wureset-tools/script-wureset) - This script reset the Windows Update Components.
@@ -374,7 +375,6 @@
 
 ## Shell 
 
-- [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest) - An open source script tests VPN connection for DNS Leak.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [zegl/extremely-linear](https://github.com/zegl/extremely-linear) - Extremely Linear Git History // git-linearize
