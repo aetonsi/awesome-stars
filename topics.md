@@ -503,6 +503,7 @@
 
 ## linux 
 
+- [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
