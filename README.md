@@ -340,7 +340,7 @@
 - [osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
 - [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - Tetris in a PDF (in most browsers)
 - [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) - Patch bundle registry for ReVanced, Morphe, and Reseam, with searchable patches, app compatibility, historical releases, prereleases, and changelogs retrievable through a REST and GraphQL API plus a u
-- [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - Android application patching ecosystems built around ReVanced, Morphe, and compatible community tooling.
+- [Jman-Github/Awesome-Android-Patching](https://github.com/Jman-Github/Awesome-Android-Patching) - Android application patching ecosystems built around ReVanced, Morphe, Reseam, and compatible community tooling.
 - [INeed4000Bucks/cloudscraper](https://github.com/INeed4000Bucks/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot) - A Telegram bot deployable to Heroku/VPS that can extract every archive ! With support for split archives, password protected, download from URL, file rename, thumbnail changer, ...
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
