@@ -183,7 +183,7 @@
 ## awesome 
 
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - Android application patching ecosystems built around ReVanced, Morphe, and compatible community tooling.
+- [Jman-Github/Awesome-Android-Patching](https://github.com/Jman-Github/Awesome-Android-Patching) - Android application patching ecosystems built around ReVanced, Morphe, Reseam, and compatible community tooling.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
@@ -191,7 +191,7 @@
 ## awesome-list 
 
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) - Android application patching ecosystems built around ReVanced, Morphe, and compatible community tooling.
+- [Jman-Github/Awesome-Android-Patching](https://github.com/Jman-Github/Awesome-Android-Patching) - Android application patching ecosystems built around ReVanced, Morphe, Reseam, and compatible community tooling.
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
