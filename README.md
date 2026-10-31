@@ -415,7 +415,7 @@
 
 ## Vue 
 
-- [schej-it/timeful.app](https://github.com/schej-it/timeful.app) - Timeful (formerly Schej) is a scheduling platform helps you find the best time for a group to meet. It is a free availability poll that is easy to use and integrates with your calendar.
+- [schej-it/timeful](https://github.com/schej-it/timeful) - Timeful (formerly Schej) is a scheduling platform helps you find the best time for a group to meet. It is a free availability poll that is easy to use and integrates with your calendar.
 
 
 ## License
