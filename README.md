@@ -401,7 +401,7 @@
 - [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best application for all of your cloud storage
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [softonic/axios-retry](https://github.com/softonic/axios-retry) - Axios plugin that intercepts failed requests and retries them whenever possible
+- [softonic/axios-retry](https://github.com/softonic/axios-retry) - [Not maintained] Axios plugin that intercepts failed requests and retries them whenever possible
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## VBScript 
