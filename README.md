@@ -327,7 +327,7 @@
 - [dsccommunity/ComputerManagementDsc](https://github.com/dsccommunity/ComputerManagementDsc) - DSC resources for for configuration of a Windows computer. These DSC resources allow you to perform computer management tasks, such as renaming the computer, joining a domain and scheduling tasks as w
 - [adamdriscoll/PoshInternals](https://github.com/adamdriscoll/PoshInternals) - A pure script-based PowerShell module that provides deep system analysis and configuration.
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
-- [bdukes/PowerShellModules](https://github.com/bdukes/PowerShellModules) - A collection of PowerShell modules
+- [EngageSoftware/PowerShellModules](https://github.com/EngageSoftware/PowerShellModules) - A collection of PowerShell modules
 - [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate) - This module contain cmdlets to manage Windows Update Client.
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
